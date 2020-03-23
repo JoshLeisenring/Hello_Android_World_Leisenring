@@ -1,0 +1,12 @@
+<resources>
+    <!--Change Application Name-->
+    <string name="app_name">Josh\'s Android App</string>
+    <string name="header">Some Photos to Browse</string>
+    <string name="banner_description">Tech to Moss Banner</string>
+    <string name="button1_description">Spotted Salamander</string>
+    <string name="button2_description">Trout Lilies</string>
+    <string name="button3_description">Barnacles</string>
+    <string name="button4_description">Ribbon Snake</string>
+    <string name="button5_description">Violets</string>
+    <string name="button6_description">Lizard</string>
+</resources>
